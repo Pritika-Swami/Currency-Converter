@@ -4,7 +4,6 @@ const dropdowns=document.querySelectorAll(".dropdown select");
 const btn=document.querySelector("form button");
 const fromCurr=document.querySelector(".from select");
 const toCurr=document.querySelector(".to select");
-// const amt=document.querySelector(".amount input");
 const msg=document.querySelector(".msg");
 
 for(let select of dropdowns){
